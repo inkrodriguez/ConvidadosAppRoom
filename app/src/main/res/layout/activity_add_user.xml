@@ -33,7 +33,7 @@
         app:layout_constraintTop_toBottomOf="@+id/edFirstName" />
 
     <Button
-        android:id="@+id/btnAddUser"
+        android:id="@+id/btn_add_or_update_user"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
